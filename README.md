@@ -14,7 +14,7 @@
 ![PacBio](https://img.shields.io/badge/PacBio-HiFi-red.svg)
 
 
-<img src="Yari_logo.png" alt="GenoCap_logo.png" width="400" height="400">
+<img src="GenoCap_logo.png" alt="GenoCap_logo.png" width="400" height="400">
 
 </div>
 
