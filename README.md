@@ -22,7 +22,7 @@
 
 ## 🌟 Overview
 
-**GENOCAP** is a cutting-edge Nextflow pipeline engineered for comprehensive end-to-end analysis of PacBio HiFi sequencing data, specifically designed to characterize MHC gene diversity in mammalian species. This robust pipeline seamlessly integrates diploid-aware de novo assembly, sophisticated phylogenetic analysis, precise gene annotation, advanced variant calling, haplotype phasing, and individual genotyping into a unified workflow.
+**GENOCAP** is a cutting-edge Nextflow pipeline engineered for comprehensive end-to-end analysis of PacBio HiFi sequencing data, specifically designed to characterize MHC gene diversity in non-model species. This robust pipeline seamlessly integrates diploid-aware de novo assembly, sophisticated phylogenetic analysis, precise gene annotation, advanced variant calling, haplotype phasing, and individual genotyping into a unified workflow.
 
 ### ✨ Key Features
 
