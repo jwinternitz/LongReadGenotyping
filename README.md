@@ -1,4 +1,4 @@
-# 🧬 GENOCAP
+# GENOCAP
 ## *GENOtyping by long-read target CAPture pipeline*
 
 <div align="center">
